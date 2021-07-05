@@ -1,5 +1,3 @@
-# Сформувати список із 30 випадкових цілих чисел від -100 до +100.
-
 import random
 
 print("\n\nA list of 30 random integers from -100 to +100:")
